@@ -37,3 +37,6 @@ Count the number of passing cars on the road.
 
 # CountDiv
 Compute number of integers divisible by k in range [a..b].
+
+# GenomicRangeQuery
+Find the minimal nucleotide from a range of sequence DNA.
