@@ -40,3 +40,6 @@ Compute number of integers divisible by k in range [a..b].
 
 # GenomicRangeQuery
 Find the minimal nucleotide from a range of sequence DNA.
+
+# MinAvgTwoSlice
+Find the minimal average of any slice containing at least two elements.
