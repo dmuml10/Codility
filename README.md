@@ -43,3 +43,9 @@ Find the minimal nucleotide from a range of sequence DNA.
 
 # MinAvgTwoSlice
 Find the minimal average of any slice containing at least two elements.
+
+# Distinct
+Compute number of distinct values in an array.
+
+# MaxProductOfThree
+Maximize A[P] * A[Q] * A[R] for any triplet (P, Q, R).
