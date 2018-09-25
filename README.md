@@ -49,3 +49,6 @@ Compute number of distinct values in an array.
 
 # MaxProductOfThree
 Maximize A[P] * A[Q] * A[R] for any triplet (P, Q, R).
+
+# NumberOfDiscIntersections
+Compute the number of intersections in a sequence of discs.
