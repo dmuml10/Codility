@@ -52,3 +52,9 @@ Maximize A[P] * A[Q] * A[R] for any triplet (P, Q, R).
 
 # NumberOfDiscIntersections
 Compute the number of intersections in a sequence of discs.
+
+# Nesting
+Determine whether a given string of parentheses (single type) is properly nested.
+
+# Brackets
+Determine whether a given string of parentheses (multiple types) is properly nested.
