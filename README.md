@@ -61,3 +61,10 @@ Determine whether a given string of parentheses (multiple types) is properly nes
 
 # Nesting
 Determine whether a given string of parentheses (single type) is properly nested.
+
+# Nesting
+Determine whether a given string of parentheses (single type) is properly nested.
+
+# Fish
+N voracious fish are moving along a river. Calculate how many fish are alive.
+
