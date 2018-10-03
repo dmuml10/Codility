@@ -76,3 +76,6 @@ Find the index S such that the leaders of the sequences A[0], A[1], ..., A[S] an
 
 # Dominator
 Find an index of an array such that its value occurs at more than half of indices in the array.
+
+# MaxProfit
+Given a log of stock prices compute the maximum possible earning.
