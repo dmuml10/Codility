@@ -79,3 +79,6 @@ Find an index of an array such that its value occurs at more than half of indice
 
 # MaxProfit
 Given a log of stock prices compute the maximum possible earning.
+
+# MaxSliceSum
+Find a maximum sum of a compact subsequence of array elements.
