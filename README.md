@@ -82,3 +82,6 @@ Given a log of stock prices compute the maximum possible earning.
 
 # MaxSliceSum
 Find a maximum sum of a compact subsequence of array elements.
+
+# CountFactors
+Count factors of given number n.
